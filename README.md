@@ -9,3 +9,8 @@ Install:
 	kubectl apply -f nfs-client-provisioner/rbac.yaml
 
 	kubectl apply -f nfs-client-provisioner/deployment.yaml
+
+
+Test:
+
+deploy test in test_nfs Folder.
